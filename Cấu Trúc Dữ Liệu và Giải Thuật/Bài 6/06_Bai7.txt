@@ -1,0 +1,2 @@
+Không nên dùng LinkedList để lưu dữ liệu cho Selection Sort hay Insertion Sort.
+🔹 Vì chúng cần truy cập ngẫu nhiên và đổi chỗ phần tử, mà LinkedList chỉ truy cập tuần tự, khiến hiệu năng giảm đáng kể.
